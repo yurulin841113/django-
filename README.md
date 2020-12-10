@@ -51,6 +51,7 @@ python manage.py createsuperuser
 
 ### 安裝markdown語法(佈署網站記得加!)
 pip install django-markdown-deux
+
 pip freeze > requirements.txt
 
 
